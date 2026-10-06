@@ -1,0 +1,16 @@
+Package: Purplegraph
+Type: Package
+Title: Purplegraph
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Madeleine", "Limon",
+      email = "jane@example.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Gives purple graphs and some unsolicited advice
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.1.0
